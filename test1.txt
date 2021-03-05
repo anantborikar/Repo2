@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9885-0711
+
+ Directory of C:\Users\cpara\Documents\MyProject
+
+05/03/2021  21:26    <DIR>          .
+05/03/2021  21:26    <DIR>          ..
+05/03/2021  21:26                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  809,015,558,144 bytes free
